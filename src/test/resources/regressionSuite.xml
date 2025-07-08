@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DailyFinanceApp Automation">
+    <test name="User Login">
+        <classes>
+            <class name="testrunner.LoginTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="User Registration">
+        <classes>
+            <class name="testrunner.RegistrationTestRunner"></class>
+        </classes>
+    </test>
+    <test name="User Dashboard product cost add">
+        <classes>
+            <class name="testrunner.UserDashboardRunner"></class>
+        </classes>
+    </test>
+
+    <test name="User profile update ">
+        <classes>
+            <class name="testrunner.ProfileTestRunner"></class>
+        </classes>
+    </test>
+
+    <test name="User login from CSV dataset ">
+        <classes>
+            <class name="testrunner.LoginUsingCSVDataset"></class>
+        </classes>
+    </test>
+</suite>
