@@ -80,4 +80,4 @@ allure serve allure-results
 
 ## Allure Report
 
-[TestNG Report - View HTML](http://192.168.0.100:49701/index.html)
+[Report - View HTML](http://192.168.0.100:49701/index.html)
