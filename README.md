@@ -1,4 +1,4 @@
-# 🧪 Daily Finance App Automation 
+#  Daily Finance App Automation 
 
 This project is an automation testing framework developed for [Daily Finance](https://dailyfinance.roadtocareer.net/), built using **Selenium WebDriver**, **TestNG**, and **Gradle**, following the **Page Object Model (POM)** design pattern.
 
@@ -12,7 +12,7 @@ The project is organized with clear separation of concerns, where each page of t
 * **User Dashboard Page** – Adds cost details after login.
 * **Profile Page** – Supports profile update and image upload.
 
-## 🧪 Test Runner Packages
+##  Test Runner Packages
 
 ### 🔐 Login Test Runner
 
@@ -36,7 +36,7 @@ The project is organized with clear separation of concerns, where each page of t
 * Logs in the **last registered user**.
 * Adds cost details on the dashboard.
 
-## 🧪 Test Suites
+##  Test Suites
 
 The tests are organized into two main suites for flexible execution:
 
