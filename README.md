@@ -51,7 +51,7 @@ The tests are organized into two main suites for flexible execution:
 * **Build Tool**: Gradle
 * **Design Pattern**: Page Object Model (POM)
 * **Data Files**: `users.json`, `user.csv`
-allure serve allure-results
+
 
 1. Clone the repo:
 
