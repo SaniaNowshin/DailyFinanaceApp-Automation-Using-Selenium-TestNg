@@ -53,13 +53,9 @@ The tests are organized into two main suites for flexible execution:
 * **Data Files**: `users.json`, `user.csv`
 
 
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/your-username/daily-finance-automation.git
-   cd daily-finance-automation
-   ```
-
+## How to run this project
+1. Clone the repository.
+   
 2. Run the desired test suite:
 
    ```bash
